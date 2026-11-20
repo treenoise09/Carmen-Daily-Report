@@ -1,0 +1,24 @@
+2026/11/20-16:19:21.750 6884 Reusing MANIFEST C:\Users\media\OneDrive\Desktop\Code\dailyReport\scripts\playwright\.auth\zoho-profile\Default\IndexedDB\https_desk.zoho.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/20-16:19:21.751 6884 Recovering log #7
+2026/11/20-16:19:21.751 6884 Reusing old log C:\Users\media\OneDrive\Desktop\Code\dailyReport\scripts\playwright\.auth\zoho-profile\Default\IndexedDB\https_desk.zoho.com_0.indexeddb.leveldb/000007.log 
+2026/11/20-16:19:21.764 7794 Level-0 table #11: started
+2026/11/20-16:19:21.784 7794 Level-0 table #11: 1250 bytes OK
+2026/11/20-16:19:21.786 7794 Delete type=0 #7
+2026/11/20-16:19:21.787 7794 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x02\x01\x03\x00k\x00e\x00y' @ 297 : 1
+2026/11/20-16:19:21.787 7794 Compacting 1@0 + 1@1 files
+2026/11/20-16:19:21.812 7794 Generated table #12@0: 63 keys, 1196 bytes
+2026/11/20-16:19:21.813 7794 Compacted 1@0 + 1@1 files => 1196 bytes
+2026/11/20-16:19:21.815 7794 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/20-16:19:21.815 7794 Delete type=2 #11
+2026/11/20-16:19:21.816 7794 Manual compaction at level-0 from '\x00\x05\x01\x02\x01\x03\x00k\x00e\x00y' @ 297 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/11/20-16:19:28.187 480 Level-0 table #14: started
+2026/11/20-16:19:28.210 480 Level-0 table #14: 2009 bytes OK
+2026/11/20-16:19:28.213 480 Delete type=2 #8
+2026/11/20-16:19:28.213 480 Delete type=0 #10
+2026/11/20-16:19:28.214 6884 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x01\x02\x01\x03\x00k\x00e\x00y' @ 425 : 1
+2026/11/20-16:19:28.214 6884 Compacting 1@0 + 1@1 files
+2026/11/20-16:19:28.228 6884 Generated table #15@0: 98 keys, 1620 bytes
+2026/11/20-16:19:28.228 6884 Compacted 1@0 + 1@1 files => 1620 bytes
+2026/11/20-16:19:28.230 6884 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/20-16:19:28.231 6884 Delete type=2 #14
+2026/11/20-16:19:28.231 6884 Manual compaction at level-0 from '\x00\x06\x01\x02\x01\x03\x00k\x00e\x00y' @ 425 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

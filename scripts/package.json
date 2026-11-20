@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "zoho:daily-report": "tsx zoho-daily-report.ts",
+    "start": "tsx zoho-daily-report.ts",
+    "merge": "tsx merge-only.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1",
+    "tsx": "^4.22.4"
+  }
+}
